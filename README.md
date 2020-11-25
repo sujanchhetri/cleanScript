@@ -11,4 +11,4 @@ Clean your code with one command with this script.Remove all comments from files
 * prettier(optional if u don't have prettier extension installed in vs code) `npm i prettier`:removes spaces and refactor the code after the removal of comments
 
 # Learn more:
-[here]()
+[here](https://bloguedev.herokuapp.com/blogs/comment-remover-with-javascript)
